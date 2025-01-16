@@ -1,1 +1,1 @@
-# talenthuntcricket
+# Talent Hunt Cricket Academy
